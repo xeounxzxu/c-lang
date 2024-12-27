@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("test success hello");
+    printf("test success hello 2");
     return 1;
 }
